@@ -6,7 +6,6 @@ Dieses Flyer sollte, dann mittels HTML und CSS umgesetzt werden.
 
 -- English
 
-
 This project was created with the help of the Moers Technical College in cooperation with WWWE, formerly Euroweb
 In this project a flyer was to be created for Biomio. 
 This flyer should then be implemented using HTML and CSS.
